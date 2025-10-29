@@ -1,24 +1,43 @@
 # GRACE: Generative Representation Learning via Contrastive Policy Optimization
 
 <div style='display:flex; gap: 0.25rem; flex-wrap: wrap; align-items: center;'>
-  <a href='LICENSE'>
+  <a href='LICENCE'>
     <img src='https://img.shields.io/badge/License-Apache%202.0-g.svg'>
   </a>
-  <!-- <a href='https://arxiv.org/abs/2505.07233'>
+  <a href='https://arxiv.org/pdf/2510.04506'>
     <img src='https://img.shields.io/badge/Paper-PDF-red'>
-  </a> -->
+  </a>
+  <a href='https://x.com/SunJiashuo36/status/1975781651646210070'>
+    <img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'>
+  </a>
 </div>
 
 **Our method can improve the embedding performance while retaining the generative performance.**  
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/re-emb.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/re-emb.png" alt="" style="width:800px; height:auto;" />
   </a>
 </div>
 
+## How to cite
+If you extend or use this work, please cite the [paper](https://arxiv.org/pdf/2510.04506) where it was introduced:
+
+```
+@misc{sun2025gracegenerativerepresentationlearning,
+      title={GRACE: Generative Representation Learning via Contrastive Policy Optimization}, 
+      author={Jiashuo Sun and Shixuan Liu and Zhaochen Su and Xianrui Zhong and Pengcheng Jiang and Bowen Jin and Peiran Li and Weijia Shi and Jiawei Han},
+      year={2025},
+      eprint={2510.04506},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.04506}, 
+}
+```
+
 
 ## 🔥 Update
+* [2025-10-02]: 🚀 Our paper is avaliable at [https://arxiv.org/pdf/2510.04506](https://arxiv.org/pdf/2510.04506).
 * [2025-10-02]: 🚀 We release the code for training and evaluation.
 
 ## Table of Contents
@@ -439,7 +458,7 @@ Explore the key components and performance of GRACE through the following images
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/introduction.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/introduction.png" alt="" style="width:900px; height:auto;" />
   </a>
 </div>
 
@@ -447,7 +466,7 @@ Explore the key components and performance of GRACE through the following images
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/results_supervised.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/results_supervised.png" alt="" style="width:900px; height:auto;" />
   </a>
 </div>
 
@@ -456,7 +475,7 @@ Explore the key components and performance of GRACE through the following images
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/results_unsupervised.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/results_unsupervised.png" alt="" style="width:900px; height:auto;" />
   </a>
 </div>
 
@@ -465,13 +484,13 @@ Explore the key components and performance of GRACE through the following images
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/case_study1.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/case_study1.png" alt="" style="width:900px; height:auto;" />
   </a>
 </div>
 
 <div style="text-align: center;">
   <a href="">
-    <img src="assets/case_study2.png" alt="" style="width:600px; height:auto;" />
+    <img src="assets/case_study2.png" alt="" style="width:900px; height:auto;" />
   </a>
 </div>
 
