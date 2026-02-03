@@ -37,6 +37,7 @@ If you extend or use this work, please cite the [paper](https://arxiv.org/pdf/25
 
 
 ## 🔥 Update
+* [2026-01-31]: 🚀 Our paper is accepted by ICLR 2026! See you in Brazil! 🥳🥳🥳
 * [2025-10-02]: 🚀 Our paper is avaliable at [https://arxiv.org/pdf/2510.04506](https://arxiv.org/pdf/2510.04506).
 * [2025-10-02]: 🚀 We release the code for training and evaluation.
 
